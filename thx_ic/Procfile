@@ -1,1 +1,1 @@
-web: gunicorn ic_outsource.wsgi --log-file -
+web: gunicorn thx_ic.wsgi --log-file -
